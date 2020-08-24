@@ -7,6 +7,12 @@ But wait! The PC can do this for me and.... TAAARAAA!
 Opened my code editor, wrote 80 line of python code in couple of minutes, and here we go... XD
 (NOTE: not very perfect but it works and this is what I want.)
 
+# Requirements
+[Click](https://click.palletsprojects.com/en/7.x/)
+```
+pip install -U click
+```
+
 # Usage
 **Tested on Linux Only!**
 ```
