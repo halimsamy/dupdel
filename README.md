@@ -8,6 +8,7 @@ Opened my code editor, wrote 80 line of python code in couple of minutes, and he
 (NOTE: not very perfect but it works and this is what I want.)
 
 # Usage
+**Tested on Linux Only!**
 ```
 Usage: dupdel.py [OPTIONS] DIRS...
 
